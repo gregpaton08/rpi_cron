@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/pi/projects/light_switch/
+./ls_server.py
