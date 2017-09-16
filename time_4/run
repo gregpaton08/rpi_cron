@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-
-cd /home/pi/cron/time_4am
-
-for i in *.sh
-do
-    ./$i &
-done
